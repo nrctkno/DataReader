@@ -1,0 +1,19 @@
+{
+  "name": "lat/datareader",
+  "description": "A stream data reader for .TXT and .CSV files.",
+  "keywords": ["PHP file reader"],
+  "homepage": "http://ztrint.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nicolas Castro",
+      "email": "ncastro@ztrint.com"
+    }
+  ],
+  "require": {
+    "php": "^5.5.9 || ^7.0",
+  },
+  "support": {
+    "docs": "https://github.com/nrctkno/DataReader"
+  }
+}
