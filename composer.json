@@ -13,7 +13,7 @@
     }
   ],
   "require": {
-    "php": "^5.5.9 || ^7.0",
+    "php": "^5.5.9 || ^7.0"
   },
   "support": {
     "docs": "https://github.com/nrctkno/DataReader"
