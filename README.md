@@ -10,7 +10,7 @@ Add the repository to your **composer.json** file:
 
 	"repositories": [
 		{
-			"type": "vcs",
+			"type": "git",
 			"url": "https://github.com/nrctkno/DataReader"
 		}
 	]
@@ -19,7 +19,7 @@ Add the repository to your **composer.json** file:
 ...or using the command line:
 
 
-	composer config repositories.lat_datareader vcs https://github.com/nrctkno/DataReader
+	composer config repositories.lat_datareader git https://github.com/nrctkno/DataReader
 	
 	
 Add the package:
