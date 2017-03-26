@@ -19,7 +19,7 @@ Add the repository to your **composer.json** file:
 ...or using the command line:
 
 
-	composer config repositories.lat_phptoolbox vcs https://github.com/nrctkno/DataReader
+	composer config repositories.lat_datareader vcs https://github.com/nrctkno/DataReader
 	
 	
 Add the package:
