@@ -16,5 +16,10 @@
   },
   "support": {
     "docs": "https://github.com/nrctkno/DataReader"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.0"
+    }
   }
 }
