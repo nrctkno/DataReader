@@ -1,5 +1,7 @@
 {
   "name": "lat/datareader",
+  "type": "library",
+  "minimum-stability": "dev",
   "description": "A stream data reader for .TXT and .CSV files.",
   "keywords": ["PHP file reader"],
   "homepage": "http://ztrint.com",
