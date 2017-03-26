@@ -11,6 +11,8 @@
       "email": "ncastro@ztrint.com"
     }
   ],
+  "minimum-stability": "dev",
+  
   "require": {
     "php": "^5.5.9 || ^7.0"
   },
@@ -19,7 +21,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "0.1.0"
+      "dev-master": "0.1.x-dev"
     }
   }
 }
