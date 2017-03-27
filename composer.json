@@ -14,7 +14,7 @@
   "minimum-stability": "dev",
   "support": {
     "docs": "https://github.com/nrctkno/DataReader"
-  }
+  },
   
   "require": {
     "php": "^5.5.9 || ^7.0"
