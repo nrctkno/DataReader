@@ -20,7 +20,7 @@
     "php": "^5.5.9 || ^7.0"
   },
   "autoload": {
-    "psr-4": {"LAT\\DataReader\\": "lat/datareader"}
+    "psr-4": {"LAT\\DataReader\\": "src"}
   }
 
 }
